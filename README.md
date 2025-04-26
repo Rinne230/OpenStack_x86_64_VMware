@@ -30,11 +30,9 @@ author：t1ngyx
 
 6. 把桥接模式的网卡设置好
 
-   <img src="/Users/apple/Downloads/{9EE766EB-2270-4e78-9F12-6CDEC949FF7C}.png" alt="{9EE766EB-2270-4e78-9F12-6CDEC949FF7C}" style="zoom:50%;" />
+   <img width="450" alt="{9EE766EB-2270-4e78-9F12-6CDEC949FF7C}" src="https://github.com/user-attachments/assets/35f4d22d-b6f0-483a-9875-d9ac26e5ee58" style="zoom:50%;" />
 
-
-
-7. 应用即可
+8. 应用即可
 
 ## 部署流程
 
