@@ -16,7 +16,7 @@ author：t1ngyx
 
 > controller.zip // 控制节点
 >
-> cinder.zip // 管理节点
+> cinder.zip // 存储节点
 >
 > compute.zip // 计算节点
 
